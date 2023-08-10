@@ -17,6 +17,7 @@ Diagrama das tabelas
 - Linguagem de Programação: Java
 - Banco de Dados: SQL (H2 database)
 - Framework Web: Spring Boot
+- Ferramenta de Construção: Maven
   
 ## Instruções de Uso:
 1. Faça o clone da do repósitorio e acesse a pasta clonada.
